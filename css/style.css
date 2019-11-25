@@ -78,8 +78,7 @@ margin-left: 40px;
     
     .message{
         width: 100%;
-        padding:16px;
-        padding-top: 15px;
+        padding:18px;
         background-color: rgb(216, 228, 247);
         border-radius: 10px;
     }
