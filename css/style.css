@@ -2,6 +2,10 @@ body{
     padding: 0 5%;
     background-color: black;
 }
+.row{
+    display: flex;
+    flex-direction: row;
+}
 a{
     font-weight: bold;
 }
@@ -12,6 +16,7 @@ margin-left: 40px;
 .n-2 li a:hover{
     background-color:rgb(212, 227, 233);
     border-radius: 5px;
+    padding: auto 12px;
 }
 .as-1-1{
     margin: 80px 0;
@@ -70,5 +75,13 @@ margin-left: 40px;
     section{
         width: 100% !important;
     }
+    .as-1-img{
+        left: 0px;
+        top: 20px;
+    }
+    .message h6{
+    position: relative;
+    left: 43px;
+}
 
 }
