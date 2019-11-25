@@ -23,7 +23,7 @@ margin-left: 40px;
 }
 .message{
     width: 50%;
-    padding: 10px;
+    padding: 15px;
     background-color: rgb(216, 228, 247);
     border-radius: 10px;
 }
@@ -75,13 +75,13 @@ margin-left: 40px;
     section{
         width: 100% !important;
     }
-    .as-1-img{
-        left: 0px;
-        top: 20px;
+    
+    .message{
+        width: 100%;
+        padding:16px;
+        padding-top: 15px;
+        background-color: rgb(216, 228, 247);
+        border-radius: 10px;
     }
-    .message h6{
-    position: relative;
-    left: 43px;
-}
 
 }
