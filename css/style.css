@@ -114,6 +114,6 @@ and (max-width: 1027px){
         margin-left: 70%;
     }
     .n-2 li a:hover{
-        width:30%;
+        width:50px;
     }
 }
