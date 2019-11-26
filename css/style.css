@@ -99,5 +99,17 @@ margin-left: 40px;
     .m2{
         width: 100%;
     }
+    .navbar-toggler{
+        margin-left: 37% ;
+    }
+    
 
+}
+
+@media only screen 
+and (min-width: 720px)
+and (max-width: 1027px){
+    .navbar-toggler{
+        margin-left: 70%;
+    }
 }
